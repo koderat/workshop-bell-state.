@@ -13,17 +13,17 @@ imports:
 - name: z-quantum-core
   type: git
   parameters:
-    repository: "git@github.com:zapatacomputing/z-quantum-core.git"
+    repository: "git@github.com:koderat/z-quantum-core.git"
     branch: "master"
 - name: qe-qulacs
   type: git
   parameters:
-    repository: "git@github.com:zapatacomputing/qe-qulacs.git"
+    repository: "git@github.com:koderat/qe-qulacs.git"
     branch: "master"
 - name: qe-forest
   type: git
   parameters:
-    repository: "git@github.com:zapatacomputing/qe-forest.git"
+    repository: "git@github.com:koderat/qe-forest.git"
     branch: "master"
 
 steps:
